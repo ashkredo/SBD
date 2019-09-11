@@ -1,2 +1,0 @@
-# SBD
-Database systems
